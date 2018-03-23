@@ -3,3 +3,16 @@ body {
     max-width: 50em;
     font-family: "Helvetica", "Arial", sans-serif;
 }
+
+#title {
+    font-family: "Georgia";
+    font-size: 5em;
+}
+
+.red {
+    color: red;
+}
+
+.big {
+    font-size: 3em;
+}
