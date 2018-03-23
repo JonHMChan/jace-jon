@@ -6,6 +6,11 @@ body {
     padding: 4em 1em;
 }
 
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
 #title {
     font-family: "Georgia";
     font-size: 5em;
